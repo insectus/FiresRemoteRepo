@@ -1,3 +1,4 @@
 # paragon z ważywniaka
 Kto jest najlepszym commiterem
-Wybierz user 1
+Wybierz user 2
+
