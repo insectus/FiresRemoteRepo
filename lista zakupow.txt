@@ -2,3 +2,4 @@ chleb 	3.50
 jajka 	0.00
 maslo 	5.50
 ryż		3.20
+sok		5.50
